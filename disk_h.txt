@@ -1,0 +1,5 @@
+Select disk 0
+Select partition 9999
+Set id = BFBFAFE7-A34F-448A-9A5B-6213EB736C22
+gpt attributes=0x8000000000000001
+exit

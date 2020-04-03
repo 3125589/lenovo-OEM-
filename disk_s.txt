@@ -1,0 +1,7 @@
+Select disk 0
+Select partition 9999
+Set id = EBD0A0A2-B9E5-4433-87C0-68B6B72699C7
+gpt attributes=0x0000000000000000
+Select partition 9999
+assign letter=x
+exit
